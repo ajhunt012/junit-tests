@@ -18,10 +18,12 @@ public class Student {
     public long getId(){
 
 
+        return 0;
     }
 
     public String getName(){
 
+        return null;
     }
 
     public void addGrade(int grade){
@@ -30,10 +32,12 @@ public class Student {
 
     public ArrayList<Integer> getGrades(){
 
+        return null;
     }
 
     public double getGradeAverage(){
 
+        return 0;
     }
 
 
